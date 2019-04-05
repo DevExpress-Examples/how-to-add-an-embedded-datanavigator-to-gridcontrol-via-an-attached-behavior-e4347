@@ -4,7 +4,7 @@
 * [DataHelper.cs](./CS/DxSample/DataHelper.cs) (VB: [DataHelper.vb](./VB/DxSample/DataHelper.vb))
 * [DataNavigatorBehavior.cs](./CS/DxSample/DataNavigatorBehavior.cs) (VB: [DataNavigatorBehavior.vb](./VB/DxSample/DataNavigatorBehavior.vb))
 * [Dictionary.xaml](./CS/DxSample/Dictionary.xaml) (VB: [Dictionary.xaml](./VB/DxSample/Dictionary.xaml))
-* [MainWindow.xaml](./CS/DxSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DxSample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/DxSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DxSample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/DxSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DxSample/MainWindow.xaml.vb))
 * [MultiConverter.cs](./CS/DxSample/MultiConverter.cs) (VB: [MultiConverter.vb](./VB/DxSample/MultiConverter.vb))
 <!-- default file list end -->
